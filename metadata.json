@@ -1,0 +1,8 @@
+{
+  "name": "VLive",
+  "description": "Virtual video camera assistant and live stream controller with facial action timing presets, floating window, and screen color injection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
